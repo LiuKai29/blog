@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vscode on Capoo-fan</title>
+    <title>Vscode on LiuKai29</title>
     <link>http://localhost:1313/blog/categories/vscode/</link>
-    <description>Recent content in Vscode on Capoo-fan</description>
+    <description>Recent content in Vscode on LiuKai29</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>qianfu46@gmail.com (潜伏)</managingEditor>
@@ -13,12 +13,12 @@
     
     <item>
       <title>VS Code C/C&#43;&#43; Setup Guide</title>
-      <link>http://localhost:1313/blog/posts/vs-code-c/c-setup-guide/</link>
+      <link>http://localhost:1313/blog/posts/vs-code-c-c-setup-guide/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
       <author>qianfu46@gmail.com (潜伏)</author>
-      <guid>http://localhost:1313/blog/posts/vs-code-c/c-setup-guide/</guid>
+      <guid>http://localhost:1313/blog/posts/vs-code-c-c-setup-guide/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/posts/vs-code-c/c-setup-guide/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/posts/vs-code-c-c-setup-guide/feature.png" />
     </item>
     
     <item>

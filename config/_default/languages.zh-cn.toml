@@ -1,7 +1,7 @@
 disabled = false
 languageCode = "zh-cn"
 languageName = "简体中文"
-title = "Capoo-fan"
+title = "LiuKai29"
 weight = 1
 
 [params]
@@ -32,7 +32,7 @@ links = [
   #     { facebook = "https://facebook.com/username" },
   #     { flickr = "https://www.flickr.com/photos/username/" },
   #     { foursquare = "https://foursquare.com/username" },
-  {github = "https://github.com/capoo-fan"}, #     { gitlab = "https://gitlab.com/username" },
+  {github = "https://github.com/LiuKai29"}, #     { gitlab = "https://gitlab.com/username" },
   {google = "https://www.google.com/"}, #     { hashnode = "https://username.hashnode.dev" },
   #     { instagram = "https://instagram.com/username" },
   #     { itch-io = "https://username.itch.io" },

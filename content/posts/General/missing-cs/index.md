@@ -157,7 +157,7 @@ Tips：
 1. **官方文档**：许多编程语言和框架都有官方文档，通常是学习的最佳起点。例如，[Python 官方文档](https://docs.python.org/3/) 和 [JavaScript MDN 文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)。
 2. **两大视频平台**：YouTube (需要魔法) 和 Bilibili 上有许多优质的计算机科学和编程教程，可以通过搜索相关关键词找到适合自己的视频。
 3. **交流网站** : 首推 GitHub 和 Stack Overflow，这两个平台上有大量的开源项目和技术问答，可以帮助你解决具体问题。其次是 Csdn 和 博客园 和 知乎,不过由于国内环境的糜烂,属于是石里淘金。
-4. **技术博客**：许多开发者和技术专家会在个人博客上分享他们的知识和经验，关注一些知名的技术博客可以获取到很多实用的教程和技巧,比如 [我的 blog](https://capoo-fan.github.io/) (无耻推荐)。
+4. **技术博客**：许多开发者和技术专家会在个人博客上分享他们的知识和经验，关注一些知名的技术博客可以获取到很多实用的教程和技巧,比如 [我的 blog](https://LiuKai29.github.io/blog/) (无耻推荐)。
 
 ## AI 类
 

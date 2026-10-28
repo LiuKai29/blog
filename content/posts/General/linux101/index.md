@@ -605,7 +605,7 @@ eval "$(starship init zsh)"
 
 ### 7.2 风格配置
 
-作者的 [Starship 配置](https://github.com/capoo-fan/dotfiles/blob/main/starship/.config/starship.toml) 以 Tokyo-Night 风格为基础，增加了操作系统图标、更多语言模块和耗时显示。配置中的 `format` 决定模块顺序，各个 `[模块名]` 小节决定内容和样式。
+作者的 [Starship 配置](https://github.com/LiuKai29/dotfiles/blob/main/starship/.config/starship.toml) 以 Tokyo-Night 风格为基础，增加了操作系统图标、更多语言模块和耗时显示。配置中的 `format` 决定模块顺序，各个 `[模块名]` 小节决定内容和样式。
 
 例如，可以在已有的 `[directory]`、`[time]` 小节中修改这些字段：
 

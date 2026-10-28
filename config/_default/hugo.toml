@@ -2,11 +2,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-baseURL = "https://capoo-fan.github.io/blog/" 
+baseURL = "https://LiuKai29.github.io/blog/"
 defaultContentLanguage = "zh-cn" 
 theme = "blowfish" # UNCOMMENT THIS LINE
 
-title = "Capoo Fan"
+title = "LiuKai29"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true

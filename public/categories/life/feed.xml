@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on Capoo-fan</title>
+    <title>Life on LiuKai29</title>
     <link>http://localhost:1313/blog/categories/life/</link>
-    <description>Recent content in Life on Capoo-fan</description>
+    <description>Recent content in Life on LiuKai29</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>qianfu46@gmail.com (潜伏)</managingEditor>
@@ -19,16 +19,6 @@
       <guid>http://localhost:1313/blog/posts/hitsz-course-summary/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/posts/hitsz-course-summary/feature.png" />
-    </item>
-    
-    <item>
-      <title>null</title>
-      <link>http://localhost:1313/blog/posts/null/</link>
-      <pubDate>Sun, 15 Jun 2025 16:47:38 +0800</pubDate>
-      <author>qianfu46@gmail.com (潜伏)</author>
-      <guid>http://localhost:1313/blog/posts/null/</guid>
-      <description></description>
-      
     </item>
     
   </channel>
